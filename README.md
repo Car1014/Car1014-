@@ -28,3 +28,8 @@ I am also responsible for implementing the **telemetry handling and command tran
 - Digital Hardware Design  
 
 This GitHub contains projects related to **embedded systems, hardware interfacing, communication protocols, and digital design**.
+
+![STM32](https://img.shields.io/badge/STM32-Embedded-blue)
+![FPGA](https://img.shields.io/badge/FPGA-VHDL-orange)
+![RTOS](https://img.shields.io/badge/RTOS-RealTime-green)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-Linux-red)
