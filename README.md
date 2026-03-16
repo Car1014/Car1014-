@@ -1,4 +1,6 @@
-![Satellite](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/STS120LaunchHiRes-edit1.jpg/640px-STS120LaunchHiRes-edit1.jpg)
+<p align="center">
+  <img src="images/img_profile.png" width="700">
+</p>
 # About Me
 
 Embedded Systems Engineer focused on **low-level programming, digital hardware design, and real-time systems**.
