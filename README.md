@@ -1,13 +1,24 @@
+<h1 align="center">Carlos Pérez Rico</h1>
+
+<p align="center">
+Embedded Systems Engineer | FPGA | RTOS | Satellite Communication
+</p>
+
 <p align="center">
   <img src="images/img_profile.png" width="700">
 </p>
-## About Me
+
+---
+
+## 👨‍💻 About Me
 
 Embedded Systems Engineer focused on **low-level programming, digital hardware design, and real-time systems**.
 
-I have experience working with **microcontrollers and FPGA**, developing systems that integrate sensors, communication protocols, and real-time processing.
+I have experience developing systems that integrate **microcontrollers, FPGA, sensors, and communication protocols**, with emphasis on **real-time processing and embedded architectures**.
 
-## Technical Experience
+---
+
+## 🛠 Technical Experience
 
 - **Microcontrollers:** Tiva C, STM32  
 - **Embedded Platforms:** Raspberry Pi  
@@ -16,13 +27,23 @@ I have experience working with **microcontrollers and FPGA**, developing systems
 - **Operating Systems:** RTOS  
 - **Applications:** Sensor interfacing, real-time processing, and embedded communication systems  
 
-## Current Project
+---
 
-Currently, I am developing a **communication system for a satellite mission**, where three shuttles send information from their satellites to a central node. My system receives this data and forwards it to another subsystem responsible for transmitting the information to Earth.  
+## 🛰 Current Project
 
-I am also responsible for implementing the **telemetry handling and command transmission system**.
+Currently developing a **communication system for a satellite mission**, where **three shuttles send telemetry data from their satellites to a central node**.
 
-## Interests
+The system receives the information and forwards it to another subsystem responsible for **transmitting the data to Earth**.
+
+I am also responsible for implementing:
+
+- **Telemetry processing**
+- **Command transmission**
+- **Communication management between subsystems**
+
+---
+
+## 🎯 Interests
 
 - Embedded Systems  
 - Real-Time Systems  
@@ -30,9 +51,19 @@ I am also responsible for implementing the **telemetry handling and command tran
 - Communication Systems  
 - Digital Hardware Design  
 
-This GitHub contains projects related to **embedded systems, hardware interfacing, communication protocols, and digital design**.
+---
+
+## ⚙️ Technologies
+
+<p align="center">
 
 ![STM32](https://img.shields.io/badge/STM32-Embedded-blue)
 ![FPGA](https://img.shields.io/badge/FPGA-VHDL-orange)
 ![RTOS](https://img.shields.io/badge/RTOS-RealTime-green)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-Linux-red)
+
+</p>
+
+---
+
+This GitHub contains projects related to **embedded systems, hardware interfacing, communication protocols, and digital design**.
